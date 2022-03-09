@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   font-family: "open sans", sans-serif;
-  color: var(--accent, #1741);
+  color: var(--accent);
 }
 .container {
   width: 1140px;
